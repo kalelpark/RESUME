@@ -1,13 +1,11 @@
 ### AI Challenge site
-- 국내
   - [DACON](https://dacon.io/)  
   - [AIFactory](https://aifactory.space/)
   - [SNUH MAIC](https://maic.or.kr/)
   - [AI Connect](https://aiconnect.kr/competition/list)
-  - [통계청데이터센터](https://data.kostat.go.kr/sbchome/index.do)
+  - [kostat](https://data.kostat.go.kr/sbchome/index.do)
   - [Postech OIBC](https://competition.postech.ac.kr/)
   - [UrbanData](https://urbandatathon.com/hackathon/scheduleDetail/1000)
-- 국외
   - [Kaggle](https://www.kaggle.com/)
   - [CodaLab](https://codalab.lisn.upsaclay.fr/)
   - [Grand Challenge](https://grand-challenge.org/)
