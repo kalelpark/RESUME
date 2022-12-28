@@ -3,6 +3,7 @@
   - [AIFactory](https://aifactory.space/)
   - [SNUH MAIC](https://maic.or.kr/)
   - [AI Connect](https://aiconnect.kr/competition/list)
+  - [BIG CONCERT](https://www.bigcontest.or.kr/benefit/award.php#bt01)  
   - [kostat](https://data.kostat.go.kr/sbchome/index.do)
   - [Postech OIBC](https://competition.postech.ac.kr/)
   - [UrbanData](https://urbandatathon.com/hackathon/scheduleDetail/1000)
@@ -12,6 +13,7 @@
   - [IEEE DataPort](https://ieee-dataport.org/data-competitions)
   - [RetailVision](https://retailvisionworkshop.github.io/?spm=5176.12281976.0.0.40bc11a2vE664T#speakers)
   - [CVmart](https://www.cvmart.net/)
+
   
 ### WebSite
   - IT 서비스 메이커들의 소셜 네트워크 : [Disquiet](https://disquiet.io/)
