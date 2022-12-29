@@ -1,4 +1,4 @@
-### AI Challenge site
+### AI Competition
   - [DACON](https://dacon.io/)  
   - [AIFactory](https://aifactory.space/)
   - [SNUH MAIC](https://maic.or.kr/)
@@ -14,8 +14,10 @@
   - [RetailVision](https://retailvisionworkshop.github.io/?spm=5176.12281976.0.0.40bc11a2vE664T#speakers)
   - [CVmart](https://www.cvmart.net/)
 
-  
-### WebSite
+
+
+### Useful WebSite
+  - 기타 논문 리뷰 : [Openreview](https://openreview.net/)  
   - IT 서비스 메이커들의 소셜 네트워크 : [Disquiet](https://disquiet.io/)
   - 스타트업의 각자 서비스 공유 네트워크 : [ProductHunt](https://www.producthunt.com/)
   - 스마트폰 UI 템플릿 : [SMARTMOCKUPS](https://smartmockups.com/mockups/smartphone?filter=free&page=2)
