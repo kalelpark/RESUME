@@ -15,9 +15,8 @@
   - [CVmart](https://www.cvmart.net/)
 
 
-
 ### Useful WebSite
-  - 기타 논문 리뷰 : [Openreview](https://openreview.net/)  
+  - 논문 오픈 리뷰 : [Openreview](https://openreview.net/)  
   - h5-index about Computer Vision : [Google Scholar](https://scholar.google.co.kr/citations?view_op=top_venues&hl=ko&vq=eng_computervisionpatternrecognition)  
   - IT 서비스 메이커들의 소셜 네트워크 : [Disquiet](https://disquiet.io/)
   - 스타트업의 각자 서비스 공유 네트워크 : [ProductHunt](https://www.producthunt.com/)
