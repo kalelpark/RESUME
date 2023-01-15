@@ -4,7 +4,7 @@
   - 국내 대회 플랫폼 : [AI Connect](https://aiconnect.kr/competition/list)
   - 국내 대회 플랫폼 : [UrbanData](https://urbandatathon.com/hackathon/scheduleDetail/1000)
   - 국내 공공기관 관련 대회 플랫폼 : [BIG CONCERT](https://www.bigcontest.or.kr/benefit/award.php#bt01)  
-  - 국내 공공기관 관련 대회 플랫폼 :[kostat](https://data.kostat.go.kr/sbchome/index.do)
+  - 국내 공공기관 관련 대회 플랫폼 : [kostat](https://data.kostat.go.kr/sbchome/index.do)
   - 서울대병원 관련 대회 : [SNUH MAIC](https://maic.or.kr/)
   - Postech 탄소 관련 대회 : [Postech OIBC](https://competition.postech.ac.kr/)
   - 해외 대회 플랫폼 : [Kaggle](https://www.kaggle.com/)
@@ -12,8 +12,11 @@
   - 해외 대회 플랫폼 : [RetailVision](https://retailvisionworkshop.github.io/?spm=5176.12281976.0.0.40bc11a2vE664T#speakers)  
   - 해외 의료대회 플랫폼 : [Grand Challenge](https://grand-challenge.org/)
   - 해외 IEEE관련 대회 플랫폼 : [IEEE DataPort](https://ieee-dataport.org/data-competitions)
-  - 해외 ACCV관련 대회 플랫폼 :[CVmart](https://www.cvmart.net/)
+  - 해외 ACCV관련 대회 플랫폼 : [CVmart](https://www.cvmart.net/)
 
+### AI Lecture
+  - Meta Learning : [CS330](https://cs330.stanford.edu/)
+  - MLOps : [CS329s](https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR0HOA8ShDE6ap2J9uv0iFw4yiNLfjRPdNLrx9Fh7NgS_iogglb9dhOufDk)
 
 ### Useful WebSite
   - 확률과 통계 정리 : [확률과 통계 블로그](https://m.blog.naver.com/mykepzzang/220844161668)
