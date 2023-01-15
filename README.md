@@ -16,6 +16,7 @@
 
 
 ### Useful WebSite
+  - 확률과 통계 정리 : [확률과 통계 블로그](https://m.blog.naver.com/mykepzzang/220844161668)
   - DL관련 Numpy,Scipy 수학 : [데이터사이언스 스쿨](https://datascienceschool.net/intro.html)
   - ML관련 유용 수학 사이트 : [공돌이의 수학정리노트](https://angeloyeo.github.io/2022/09/28/Mahalanobis_distance.html)
   - 논문 이해를 도와주는 사이트 : [SciSpace](https://typeset.io/)
