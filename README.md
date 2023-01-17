@@ -18,7 +18,11 @@
   - Meta Learning : [CS330](https://cs330.stanford.edu/)
   - MLOps : [CS329s](https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR0HOA8ShDE6ap2J9uv0iFw4yiNLfjRPdNLrx9Fh7NgS_iogglb9dhOufDk)
   - ComputerVision : [CS231n](https://youtu.be/vT1JzLTH4G4)
+
+
 ### Useful WebSite
+  - LaTeX 강의 1 : [LaTeX 강의](https://youtu.be/HDqO2dz1GFw)
+  - LaTeX 강의 2 : [LaTeX 강의](https://youtu.be/JCXpP7da_0g)
   - 확률과 통계 정리 : [확률과 통계 블로그](https://m.blog.naver.com/mykepzzang/220844161668)
   - DL관련 Numpy,Scipy 수학 : [데이터사이언스 스쿨](https://datascienceschool.net/intro.html)
   - ML관련 유용 수학 사이트 : [공돌이의 수학정리노트](https://angeloyeo.github.io/2022/09/28/Mahalanobis_distance.html)
