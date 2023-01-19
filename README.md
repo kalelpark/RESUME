@@ -23,6 +23,7 @@
 
 
 ### Useful WebSite
+  - Nerf 블로그 : [Nerf 블로그](http://jnwoo.com/)
   - LaTeX 강의 1 : [LaTeX 강의](https://youtu.be/HDqO2dz1GFw)
   - LaTeX 강의 2 : [LaTeX 강의](https://youtu.be/JCXpP7da_0g)
   - 확률과 통계 정리 : [확률과 통계 블로그](https://m.blog.naver.com/mykepzzang/220844161668)
