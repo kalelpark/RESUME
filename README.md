@@ -19,6 +19,7 @@
   - Meta Learning : [CS330](https://cs330.stanford.edu/)
   - MLOps : [CS329s](https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR0HOA8ShDE6ap2J9uv0iFw4yiNLfjRPdNLrx9Fh7NgS_iogglb9dhOufDk)
   - ComputerVision : [CS231n](https://youtu.be/vT1JzLTH4G4)
+  - NLP : [CS224n](http://web.stanford.edu/class/cs224n/)
 
 
 ### Useful WebSite
