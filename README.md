@@ -23,6 +23,7 @@
 
 
 ### Useful WebSite
+  - 확률과 통계 : [확률과 통계 Visualization](https://seeing-theory.brown.edu/index.html#firstPage)
   - Nerf 블로그 : [Nerf 블로그](http://jnwoo.com/)
   - LaTeX 강의 1 : [LaTeX 강의](https://youtu.be/HDqO2dz1GFw)
   - LaTeX 강의 2 : [LaTeX 강의](https://youtu.be/JCXpP7da_0g)
