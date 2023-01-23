@@ -22,6 +22,7 @@
   - NLP : [CS224n](http://web.stanford.edu/class/cs224n/)
 
 ### Math for AI
+  - Distribution for DataScience : [Distribution for DataScience](https://datascience.oneoffcoder.com/pdf-cdf.html)
   - 확률과 통계 정리 : [확률과 통계 블로그](https://m.blog.naver.com/mykepzzang/220844161668)
   - 확률과 통계 : [확률과 통계 Visualization](https://seeing-theory.brown.edu/index.html#firstPage)
   - DL관련 Numpy,Scipy 수학 : [데이터사이언스 스쿨](https://datascienceschool.net/intro.html)
