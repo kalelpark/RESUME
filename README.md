@@ -29,6 +29,7 @@
   - ML관련 유용 수학 사이트 : [공돌이의 수학정리노트](https://angeloyeo.github.io/2022/09/28/Mahalanobis_distance.html)  
   
 ### Useful WebSite for AI
+  - 딥러닝 인터뷰 자료 : [딥러닝 인터뷰 자료](https://arxiv.org/abs/2201.00650)
   - Nerf 블로그 : [Nerf 블로그](http://jnwoo.com/)
   - LaTeX 강의 1 : [LaTeX 강의](https://youtu.be/HDqO2dz1GFw)
   - LaTeX 강의 2 : [LaTeX 강의](https://youtu.be/JCXpP7da_0g)
