@@ -14,6 +14,7 @@
   - 해외 IEEE관련 대회 플랫폼 : [IEEE DataPort](https://ieee-dataport.org/data-competitions)
   - 해외 ACCV관련 대회 플랫폼 : [CVmart](https://www.cvmart.net/)
   - 해외 FGVC관련 대회 플랫폼 : [fgvcwork](https://twitter.com/fgvcworkshop)
+  - 해외 Huggingface 대회 플랫폼 : [hugging face Competition](https://huggingface.co/competitions)
 
 ### Stanford AI Lecture
   - Meta Learning : [CS330](https://cs330.stanford.edu/)
