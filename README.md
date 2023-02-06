@@ -30,7 +30,7 @@
   - ML관련 유용 수학 사이트 : [공돌이의 수학정리노트](https://angeloyeo.github.io/2022/09/28/Mahalanobis_distance.html)  
   
 ### Useful WebSite for AI
-  -고려대 김성범 교수님의 논문 : [논문 팁](https://brunch.co.kr/@seoungbumkim/8)
+  - 고려대 김성범 교수님의 논문 : [논문 팁](https://brunch.co.kr/@seoungbumkim/8)
   - Google Dataset : [Google Dataset](https://datasetsearch.research.google.com/)
   - 딥러닝 Architecture tool : [Diagram](https://app.diagrams.net/)
   - 딥러닝 인터뷰 자료 : [딥러닝 인터뷰 자료](https://arxiv.org/abs/2201.00650)
