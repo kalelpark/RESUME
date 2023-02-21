@@ -46,5 +46,5 @@
   - IT 서비스 메이커들의 소셜 네트워크 : [Disquiet](https://disquiet.io/)
   - 스타트업의 각자 서비스 공유 네트워크 : [ProductHunt](https://www.producthunt.com/)
   - 스마트폰 UI 템플릿 : [SMARTMOCKUPS](https://smartmockups.com/mockups/smartphone?filter=free&page=2)
-  
+  - 디자인 관련 플랫폼 : [디자이너스](https://designus.io/)  
   
