@@ -31,6 +31,7 @@
   
 ### Useful WebSite for AI
   - 고려대 김성범 교수님의 논문 : [논문 팁](https://brunch.co.kr/@seoungbumkim/8)
+  - Top Conference : [Top Conference](https://cse.snu.ac.kr/node/29041)
   - Google Dataset : [Google Dataset](https://datasetsearch.research.google.com/)
   - 딥러닝 Architecture tool : [Diagram](https://app.diagrams.net/)
   - 딥러닝 인터뷰 자료 : [딥러닝 인터뷰 자료](https://arxiv.org/abs/2201.00650)
