@@ -40,7 +40,8 @@
   - LaTeX 강의 2 : [LaTeX 강의](https://youtu.be/JCXpP7da_0g)
   - 논문 이해를 도와주는 사이트 : [SciSpace](https://typeset.io/)
   - 논문 오픈 리뷰 : [Openreview](https://openreview.net/)  
-  - h5-index about Computer Vision : [Google Scholar](https://scholar.google.co.kr/citations?view_op=top_venues&hl=ko&vq=eng_computervisionpatternrecognition)  
+  - h5-index about Computer Vision : [Google Scholar](https://scholar.google.co.kr/citations?view_op=top_venues&hl=ko&vq=eng_computervisionpatternrecognition) 
+  - Google Colar Plate : [Google Colar Plate](https://chrome.google.com/webstore/detail/color-plate-picker/knfkbdnonhbbhokcfkgcbbgpchmkhgfd) 
 
 ### Useful Material for Competition
 
@@ -48,4 +49,4 @@
   - 스타트업의 각자 서비스 공유 네트워크 : [ProductHunt](https://www.producthunt.com/)
   - 스마트폰 UI 템플릿 : [SMARTMOCKUPS](https://smartmockups.com/mockups/smartphone?filter=free&page=2)
   - 디자인 관련 플랫폼 : [디자이너스](https://designus.io/)  
-  
+
