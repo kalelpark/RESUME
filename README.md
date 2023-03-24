@@ -40,9 +40,11 @@
   - LaTeX 강의 1 : [LaTeX 강의](https://youtu.be/HDqO2dz1GFw)
   - LaTeX 강의 2 : [LaTeX 강의](https://youtu.be/JCXpP7da_0g)
   - 논문 이해를 도와주는 사이트 : [SciSpace](https://typeset.io/)
+  - 영작 공부에 도움주는 사이트 : [Englishmo](https://www.mykoen.com/index.php?pat=&top=&wor=&fin=&num=5&den=5)  
   - 논문 오픈 리뷰 : [Openreview](https://openreview.net/)  
   - h5-index about Computer Vision : [Google Scholar](https://scholar.google.co.kr/citations?view_op=top_venues&hl=ko&vq=eng_computervisionpatternrecognition) 
   - Google Colar Plate : [Google Colar Plate](https://chrome.google.com/webstore/detail/color-plate-picker/knfkbdnonhbbhokcfkgcbbgpchmkhgfd) 
+  
 
 ### Useful Material for Competition
 
