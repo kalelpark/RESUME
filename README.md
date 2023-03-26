@@ -28,6 +28,7 @@
   - 확률과 통계 : [확률과 통계 Visualization](https://seeing-theory.brown.edu/index.html#firstPage)
   - DL관련 Numpy,Scipy 수학 : [데이터사이언스 스쿨](https://datascienceschool.net/intro.html)
   - ML관련 유용 수학 사이트 : [공돌이의 수학정리노트](https://angeloyeo.github.io/2022/09/28/Mahalanobis_distance.html)  
+  - Nerf 관련 스터디 정리 : [Nerf 관련 스터디 정리](https://alida.tistory.com/77#multiple%C2%A0view%C2%A0geometry%C2%A0in%C2%A0computer%C2%A0vision%C2%A0%EC%B1%85%C2%A0%EB%82%B4%EC%9A%A9%C2%A0%EC%A0%95%EB%A6%AC)
   
 ### Useful WebSite for AI
   - 논문 사이트 : [connectedpapers](https://www.connectedpapers.com/)
